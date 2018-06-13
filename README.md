@@ -11,4 +11,4 @@ This application is written in:
     - NodeJS
     - Express
 
-and is hosted on heroku at: https://elk75-yelp-camp.herokuapp.com/campgrounds
+and is hosted on heroku at: https://elk75-yelp-camp.herokuapp.com/
